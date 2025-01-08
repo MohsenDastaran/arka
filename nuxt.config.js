@@ -2,7 +2,7 @@ export default {
   target: 'static',
 
   head: {
-    title: 'Auth App',
+    title: 'Arka Auth App',
     htmlAttrs: {
       lang: 'en'
     },

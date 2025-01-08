@@ -3,10 +3,10 @@
 Sample Users:
 ```js
 [
-      { email: 'mohsen@example.com', password: 'password1' },
-      { email: 'arka@example.com', password: 'password2' },
-      { email: 'novin@example.com', password: 'password3' }
-    ]
+  { email: 'mohsen@example.com', password: 'password1' },
+  { email: 'arka@example.com', password: 'password2' },
+  { email: 'novin@example.com', password: 'password3' }
+]
 ```
 
 ## Setup
