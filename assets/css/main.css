@@ -1,11 +1,12 @@
 .page-enter-active,
 .page-leave-active {
-  transition: opacity 0.3s, transform 0.3s;
+  transition: all 0.4s ease;
 }
 .page-enter,
 .page-leave-to {
-  opacity: 0;
-  transform: translateY(10px);
+  opacity: .8;
+  /* transform: translateY(10px); */
+  filter: blur(3px);
 }
 
 .form-input {
